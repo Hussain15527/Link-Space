@@ -46,3 +46,10 @@ body {
 .row-content {
     width: 100%;
 } */
+
+hr {
+    color: white;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    /* font-weight: 600;? */
+}
